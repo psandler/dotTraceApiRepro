@@ -10,4 +10,4 @@ Error that is thrown:
 
 JetBrains.Profiler.Windows.Api.ProfilingApiException : Invalid call sequence
    at JetBrains.Profiler.Windows.Api.Impl.Helper.CheckHResult(HResults hr)
-   at DotTraceReproCase.TestApi.TestTheApi() in Class1.cs: line 14
+   at DotTraceReproCase.TestApi.TestTheApi() in TestApi.cs: line 14
